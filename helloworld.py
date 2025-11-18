@@ -1,2 +1,2 @@
-print(hello world)
-print(cái đầu cắt moi)
+print("hello world")
+print("cái đầu cắt moi")
